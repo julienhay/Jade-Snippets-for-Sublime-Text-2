@@ -93,6 +93,20 @@ cd    =>  ```:cdata```
 
 co    =>  ```:coffeescript```
 
+### Conditionnals
+
+if 
+
+else  
+
+### Iterations
+
+each 
+
+### Variables
+
+variables 
+
 
 ### Templates
 
