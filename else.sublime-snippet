@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+else
+  ${2://- code}
+]]></content>
+  <tabTrigger>else</tabTrigger>
+  <scope>source.jade</scope>
+  <description>else</description>
+</snippet>
